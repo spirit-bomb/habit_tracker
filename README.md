@@ -1,3 +1,33 @@
+#  DailyHabit – Habit & Wellness Tracker
+
+**DailyHabit** is a sleek and intuitive web app designed to help you stay on top of your daily habits and personal wellness stats. Whether it's monitoring your sleep, tracking your water intake, or limiting screen time, DailyHabit provides the tools and insights you need to stay consistent and motivated.
+
+##  Features
+
+-  **Weekly Habit Progress Graphs**  
+  Visualize your improvement over time with interactive, animated charts.
+
+-  **Daily Check-in & Goal Sliders**  
+  Log your activities effortlessly and set daily goals to stay accountable.
+
+-  **Streak Tracker**  
+  See how consistent you've been with a visual "days completed" counter and streak tracker.
+
+-  **Reminders** *(Planned)*  
+  Get gentle nudges when you miss logging an activity.
+
+-  **Activity Log & Performance Trends**  
+  Track your history, analyze trends, and optimize your routine.
+
+## Tech Stack
+
+- **Frontend:** [Next.js](https://nextjs.org/) (with TypeScript)  
+- **Styling:** [TailwindCSS](https://tailwindcss.com/)  
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)  
+- **Data:** Realistic mock data for demo and development
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
